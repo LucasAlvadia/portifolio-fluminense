@@ -141,7 +141,6 @@ body {
     color: var(--cor-secundaria); /* Verde para os links */
     font-weight: bold; /* Destaque */
     padding-left: 10%;
-    padding-bottom: 10%;
 }
 
 .apresentacao__links__links__novo img {
